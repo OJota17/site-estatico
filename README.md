@@ -2,22 +2,6 @@
 
 Site de página única (one-page) para a Advocacia Rovina, desenvolvido em **HTML, CSS e JavaScript puros** — sem frameworks, sem build, sem dependências de instalação. Basta abrir o `index.html` no navegador.
 
-Inspirado na estrutura do site [Bernardo Advogados](https://bernardoadvogados.com), com identidade visual própria baseada na logo da Rovina (monograma dourado sobre fundo grafite).
-
-## 📸 Screenshots
-
-### Hero (desktop)
-![Hero desktop](screenshots/desktop-hero.png)
-
-### Áreas de atuação
-![Áreas de atuação](screenshots/desktop-areas.png)
-
-### Versão mobile
-<img src="screenshots/mobile-hero.png" alt="Hero mobile" width="320">
-
-### Página completa (desktop)
-![Página completa](screenshots/desktop-full.png)
-
 ## ✨ Funcionalidades
 
 - Header fixo, com fundo sólido ao rolar a página
@@ -57,20 +41,6 @@ advocacia-rovina/
 
 - **Títulos:** Cinzel (serifada, caixa alta, remete ao lettering da logo)
 - **Corpo de texto:** EB Garamond
-
-## ✅ Antes de publicar
-
-- [ ] Trocar o número de WhatsApp de exemplo (`5519999999999`) pelo número real, nos 3 links do site
-- [ ] Atualizar telefone, e-mail e endereço no rodapé
-- [ ] Revisar as áreas de atuação listadas (atualmente: Cível, Família e Sucessões, Trabalhista e Previdenciário)
-- [ ] Trocar os links de Instagram/LinkedIn do rodapé pelos reais
-
-## 🚀 Publicando o site
-
-Não é obrigatório comprar domínio para colocar o site no ar:
-
-- **Grátis:** [Netlify](https://www.netlify.com), [Vercel](https://vercel.com) ou [GitHub Pages](https://pages.github.com) — basta subir a pasta do projeto
-- **Domínio próprio** (opcional, ex: `advocaciarovina.com.br`): ~R$ 40/ano via [Registro.br](https://registro.br)
 
 ## 🛠️ Tecnologias
 
